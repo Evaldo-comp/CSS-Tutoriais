@@ -17,9 +17,9 @@
         </span> do texto</h1>
     </div>
  ```
-    ----
+ ----
   ## Como fica :
-  ![]()
+  ![](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Highlight/print-css.png)
   
   Para deixar a coisa mais interessante podemos brincar com as possibilidades, como por exemplo adicionar um :hover para que o destaque mude toda vez que o mouse passe pelo trecho.
   
