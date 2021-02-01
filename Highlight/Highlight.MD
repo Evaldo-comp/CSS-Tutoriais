@@ -39,5 +39,5 @@
    
    Esse tutorial foi adaptado do artigo publicado no site dev.to escrito por [Shubham Jain](https://github.com/shubhamjain)
    
-   [:house:](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/README.md)  Home
+  :house: [Home](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/README.md)  
     
