@@ -17,7 +17,7 @@
         </span> do texto</h1>
     </div>
  ```
- ----
+ ---
   ## Como fica :
   ![](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Highlight/print-css.png)
   
@@ -29,5 +29,13 @@
     }
    ```
    ## Como fica:
-   ![]()
+   ![](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Highlight/hover.gif)
+   
+   ---
+   
+   Explore, pois com os recursos do SVGBox, é possível fazer muito mais. 
+   
+   Esse tutorial foi adaptado do artigo publicado no site dev.to escrito por [Shubham Jain](https://github.com/shubhamjain)
+   
+   [house](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/README.md)
     
