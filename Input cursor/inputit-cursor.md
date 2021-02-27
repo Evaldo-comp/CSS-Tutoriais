@@ -4,7 +4,7 @@ A barra vertical que sinaliza a entrada de um texto em uma box é chamda de curs
 
 ![Cursor Padrão](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Input%20cursor/cursor_padrao.gif)
 
-Podemos alterar a cor deste cursor para dar um destaque maior na  inserção de texto dentro da text-box. Para isso utilizamos a propriedade `carret-color`
+Podemos alterar a cor deste cursor para dar um destaque maior na  inserção de texto dentro da text-box. Para isso utilizamos a propriedade `caret-color`
 
 ```html
 <body>
