@@ -4,4 +4,4 @@ Aqui você vai encontrar dicas, "Mágicas", recursos que vão deixar seu site ma
 
 [Inserindo Highlites com CSS](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Highlight/Highlight.MD)
 
-[Altarando a cor do cursor de entrada](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Highlight/Highlight.MD)
+[Altarando a cor do cursor de entrada](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Input%20cursor/inputit-cursor.md)
