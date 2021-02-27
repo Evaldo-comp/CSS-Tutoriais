@@ -25,7 +25,7 @@
   
   Para deixar a coisa mais interessante podemos brincar com as possibilidades, como por exemplo adicionar um :hover para que o destaque mude toda vez que o mouse passe pelo trecho.
   
-  ```html
+  ```CSS
   .highlight:hover{
             background: url("https://s2.svgbox.net/pen-brushes.svg?ic=brush-7&color=f33343 " );
     }
