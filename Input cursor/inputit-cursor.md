@@ -23,7 +23,8 @@ Podemos alterar a cor deste cursor para dar um destaque maior na  inserção de 
 </body>
 ```
 
-Observe que a diferença é sutil mas para determiandos casos pode ser significante.
+Observe que a diferença é sutil, mas para determinados casos pode ser significante.
+
 ![Cursor Alterado](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Input%20cursor/red-cursor.gif)
 
- :house: [Home](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/README.md)  
+:house: [Home](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/README.md)  
