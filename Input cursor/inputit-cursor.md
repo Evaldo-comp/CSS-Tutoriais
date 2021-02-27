@@ -1,8 +1,11 @@
 # Alterando a cor do curso de entrada 
-A barra vertical que sinaliza a entrada de um texto em uma box é chamda de cursaor de entrada, esse crsos poor padrão tem a cor preta como você pode observar na iamgem
+
+A barra vertical que sinaliza a entrada de um texto em uma box é chamda de cursaor de entrada, esse cursor por padrão tem a cor preta como você pode observar na imagem.
+
 ![Cursor Padrão](https://github.com/Evaldo-comp/CSS-Tutoriais/blob/main/Input%20cursor/cursor_padrao.gif)
 
-Podemos alterar acor deste cursor para dar um destaque maior na da inserção de testo dentro da text-box. para isso utilizamos a propiedade carret-color
+Podemos alterar a cor deste cursor para dar um destaque maior na  inserção de texto dentro da text-box. Para isso utilizamos a propriedade `carret-color`
+
 ```html
 <body>
     <!--trecho de estilização -->
