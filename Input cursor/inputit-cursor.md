@@ -1,4 +1,4 @@
-# Alterando a cor do curso de entrada 
+# Alterando a cor do cursor de entrada 
 
 A barra vertical que sinaliza a entrada de um texto em uma box é chamda de cursaor de entrada, esse cursor por padrão tem a cor preta como você pode observar na imagem.
 
